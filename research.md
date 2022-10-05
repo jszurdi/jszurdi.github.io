@@ -41,7 +41,7 @@ Janos Szurdi, Zhanhao Chen, Oleksii Starov, Adrian McCabe and Ruian Duan
 [Studying How Cybercriminals Prey on the COVID-19 Pandemic](https://unit42.paloaltonetworks.com/how-cybercriminals-prey-on-the-covid-19-pandemic/)  
 Palo Alto Networks's Unit42 blog. Published on 04/22/2020. Last accessed on 09/30/2022.  
 [[PDF](content/industryresearch/coviddomains-2020.pdf)]  
-[Report on results utilized by Interpol]("content/industryresearch/Global landscape on COVID-19 cyberthreat.pdf")  
+[Report on results utilized by Interpol](content/industryresearch/global-landscape-on-COVID-19-cyberthreat.pdf)  
 
 ### Peer Reviewed Research
 
@@ -84,7 +84,7 @@ In Proceedings of Usenix Security Symposium 2014, Aug. 2014.
 [[Trailer by Mark Felegyhazi](content/presentations/usec14-lightiningtalk.mp4]  
 
 T. Halvorson, J. Szurdi, G. Maier, M. Felegyhazi, C. Kreibich, N. Weaver, K. Levchenko and V. Paxson  
-[The BIZ Top-Level Domain: Ten Years Later](content/academicpapers/dot-biz.pam12.pdf)  
+[The BIZ Top-Level Domain: Ten Years Later](/content/academicpapers/dot-biz.pam12.pdf)  
 In Proceedings of Passive Active Measurements (PAM 2012), Vienna, Austria, March 12-14, 2012.  
 [[BibTeX](content/academicpapers/dot-biz.pam12.bib)]  
 
