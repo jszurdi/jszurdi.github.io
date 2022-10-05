@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: -
+subtitle:
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a researcher at [Palo Alto Networks](https://www.paloaltonetworks.com/) working on DNS security, web security and threat intelligence. Previously, I did my Ph.D. research advised by [Nicolas Christin](https://www.andrew.cmu.edu/user/nicolasc/) at [CyLab](https://www.cylab.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/). During my Ph.D. I have spent two incredible summers at LinkedIn with the anti-abuse team. My first exposure to research in computer security was at the [CrySyS Lab](https://www.crysys.hu/) of [Budapest University of Technology](https://www.bme.hu/?language=en), where I was advised by [Mark Felegyhazi](https://www.linkedin.com/in/felegyhazi/) and received my M.Sc. degree.  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[Google Scholar](https://scholar.google.com/citations?user=rijank4AAAAJ)  
+[LinkedIn](https://www.linkedin.com/in/janos-szurdi-b40b3598/)  
+Email: szurdi . janos @ gmail . com  
