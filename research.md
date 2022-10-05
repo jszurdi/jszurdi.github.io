@@ -38,10 +38,10 @@ Palo Alto Networks's Unit42 blog. Published on 09/01/2020. Last accessed on 09/3
 [[PDF](content/industryresearch/cybersquatting-2020.pdf)]  
 
 Janos Szurdi, Zhanhao Chen, Oleksii Starov, Adrian McCabe and Ruian Duan  
-[Studying How Cybercriminals Prey on the COVID-19 Pandemic](https://unit42.paloaltonetworks.com/cybersquatting/)  
+[Studying How Cybercriminals Prey on the COVID-19 Pandemic](https://unit42.paloaltonetworks.com/how-cybercriminals-prey-on-the-covid-19-pandemic/)
 Palo Alto Networks's Unit42 blog. Published on 04/22/2020. Last accessed on 09/30/2022.  
 [[PDF](content/industryresearch/coviddomains-2020.pdf)]  
-[Report on results utilized by Interpol]()  
+[Report on results utilized by Interpol]("content/industryresearch/Global landscape on COVID-19 cyberthreat.pdf")  
 
 ### Peer Reviewed Research
 
