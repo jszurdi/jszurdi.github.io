@@ -4,7 +4,8 @@ title: 'Domain Shadowing'
 date: '2022-10-04 22:00'
 comments: true
 tags: ['computer security', 'DNS security']
-thumbnail-img: "/img/blog/2022/domain-shadowing/cover.jpg"
+thumbnail-img: "/assets/img/blog/2022/domain-shadowing/cover.jpg"
+share-img: "/assets/img/blog/2022/domain-shadowing/cover.jpg"
 permalink: /blog/domain-shadowing/
 ---
 
