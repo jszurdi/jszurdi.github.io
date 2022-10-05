@@ -4,8 +4,8 @@ title: 'Domain Shadowing'
 date: '2022-10-04 22:00'
 comments: true
 tags: ['computer security', 'DNS security']
-thumbnail-img: "/assets/img/blog/2022/domain-shadowing/cover.jpg"
-share-img: "/assets/img/blog/2022/domain-shadowing/cover.jpg"
+thumbnail-img: "/assets/img/blog/2022/domain-shadowing/cover.jpeg"
+share-img: "/assets/img/blog/2022/domain-shadowing/cover.jpeg"
 permalink: /blog/domain-shadowing/
 ---
 
@@ -29,5 +29,9 @@ However, targeting a compromised domain’s users is often not lucrative for cri
     bancobpmmavfhxcc.barwonbluff.com[.]au 62.204.41[.]247  
     tomsvprfudhd.barwonbluff.com[.]au 62.204.41[.]77
 
-As traditional approaches are not very good at detecting shadowed domains, we designed a detection pipeline using supervised machine learning that processes terabytes of DNS logs daily. The detector has identified thousands of shadowed domains used in multiple malicious campaigns, including ones used for phishing. We see how vital these specialized detectors are when we find that VirusTotal vendors only detect 2% of the domains flagged by our model. We share more details on domain shadowing, our model and the detections in our [Unit42 blog post](https://unit42.paloaltonetworks.com/domain-shadowing/).
+As traditional approaches are not very good at detecting shadowed domains, we designed a detection pipeline using supervised machine learning that processes terabytes of DNS logs daily. The detector has identified thousands of shadowed domains used in multiple malicious campaigns, including ones used for phishing - as shown in the example below (source: [Unit42 blog](https://unit42.paloaltonetworks.com/domain-shadowing/)). 
+
+![Phishing campaign example using domain shadowing](/assets/img/blog/2022/domain-shadowing/cover.jpeg)
+
+We see how vital these specialized detectors are when we find that VirusTotal vendors only detect 2% of the domains flagged by our model. We share more details on domain shadowing, our model and the detections in our [Unit42 blog post](https://unit42.paloaltonetworks.com/domain-shadowing/).
 
