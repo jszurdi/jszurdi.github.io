@@ -81,7 +81,7 @@ J. Szurdi, B. Kocso, G. Cseh, J. Spring, M. Felegyhazi and C. Kanich
 In Proceedings of Usenix Security Symposium 2014, Aug. 2014.  
 [[BibTeX](/content/academicpapers/typo-usec14.bib)] 
 [[Slides](/content/presentations/typo_usec14_slides.pdf)]  
-[[Trailer by Mark Felegyhazi](/content/presentations/usec14-lightiningtalk.mp4]  
+[[Trailer by Mark Felegyhazi](/content/presentations/usec14-lightiningtalk.mp4)]  
 
 T. Halvorson, J. Szurdi, G. Maier, M. Felegyhazi, C. Kreibich, N. Weaver, K. Levchenko and V. Paxson  
 [The BIZ Top-Level Domain: Ten Years Later](/content/academicpapers/dot-biz.pam12.pdf)  
@@ -99,17 +99,17 @@ Diss. Carnegie Mellon University, 2020.
 
 Janos Szurdi, Daiping Liu and Jun Wang  
 [Automated extraction and classification of malicious indicators](https://patents.google.com/patent/US20220272109A1/en)  
-US Patent App. 17/185,760.  
+US Patent App. 17/185,760.  2020.  
 [[BibTeX](/content/patents/autoioc-patent-2022.bib)] 
 [[PDF](/content/patents/autoioc-patent-2022.pdf)]  
 
-Janos Szurdi, Rebekah Houser and Daiping Liu  
-Detecting Shadowed Domains  
-Pending  
-
 Janos Szurdi, Weihan Jiang and David Qianshan He  
 System and Method for Detecting Dictionary-based DGA  
-Pending
+Pending, 2021
+
+Janos Szurdi, Rebekah Houser and Daiping Liu  
+Detecting Shadowed Domains  
+Pending, 2022
 
 ### Talks
 
