@@ -114,10 +114,10 @@ Pending, 2022
 ### Talks
 
 [Slides](/content/presentations/tds_www2021_slides.pdf) and 
-[recording](https://www.youtube.com/watch?v=605C6-_eIlE) of online talk on abusive traffic distribution systems at the WWW 2021.  
+[recording](https://www.youtube.com/watch?v=605C6-_eIlE) of online talk on abusive traffic distribution systems at WWW 2021.  
 [Slides](/content/presentations/domainpolicy_weis2018_slides.pdf) of talk on domain registration policies and cybercrime at WEIS 2018 in Innsbruck, Austria.  
 [Slides](/content/presentations/email_imc17_slides.pdf) of talk on email typosquatting at AMC IMC 2017 in London, U.K.  
-[Slides](/content/presentations/typo_usec14_slides.pdf) of talk on web typosquatting at  Usenix Security 2014 in San Diego, CA, U.S.  
+[Slides](/content/presentations/typo_usec14_slides.pdf) of talk on web typosquatting at Usenix Security 2014 in San Diego, CA, U.S.  
 
 ### Other
 
