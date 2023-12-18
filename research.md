@@ -7,10 +7,10 @@ use-site-title: false
 
 ### Research Articles
 
-Janos Szurdi, Shehroze Farooqi and Nabeel Mohamed 
+Janos Szurdi, Shehroze Farooqi and Nabeel Mohamed  
 [Toward Ending the Domain Wars: Early Detection of Malicious Stockpiled Domains](https://unit42.paloaltonetworks.com/detecting-malicious-stockpiled-domains/)  
 Palo Alto Networks's Unit42 blog. Published on 12/15/2023. Last accessed on 12/18/2023.  
-[[PDF](/content/industryresearch/stockpileddetector-2023.pdf)]
+[[PDF](/content/industryresearch/stockpileddetector-2023.pdf)]  
 
 Janos Szurdi, Rebekah Houser and Daiping Liu  
 [Domain Shadowing: A Stealthy Use of DNS Compromise for Cybercrime](https://unit42.paloaltonetworks.com/domain-shadowing/)  
@@ -105,30 +105,30 @@ Diss. Carnegie Mellon University, 2020.
 Janos Szurdi, Daiping Liu and Jun Wang  
 [Automated extraction and classification of malicious indicators](https://patents.google.com/patent/US20220272109A1/en)  
 US Patent App. 17/185,760.  2020.  
-[[BibTeX](/content/patents/autoioc-patent-2022.bib)] 
+[[BibTeX](/content/patents/autoioc-patent-2022.bib)]  
 [[PDF](/content/patents/autoioc-patent-2022.pdf)]  
 
 Janos Szurdi, Weihan Jiang and David Qianshan He  
 [System and method for detecting dictionary-based dga traffic ](https://patents.google.com/patent/US20230336528A1/en)  
 US Patent App. 17/723,292.  2021.  
-[[BibTeX](/content/patents/dictdga-patent-2023.bib)] 
+[[BibTeX](/content/patents/dictdga-patent-2023.bib)]  
 [[PDF](/content/patents/dictdga-patent-2023.pdf)]  
 
-Janos Szurdi, Rebekah Houser and Daiping Liu
-Detecting Shadowed Domains
-Pending, 2022
+Janos Szurdi, Rebekah Houser and Daiping Liu  
+Detecting Shadowed Domains  
+Pending, 2022  
 
-Janos Szurdi, Daiping Liu, Tong Zhao, Tingxiang Zhu, Linan Li
-Inline Detection of Dictionary DGA Domain Names with Reduced Cost and Latency
-Pending, 2023
+Janos Szurdi, Daiping Liu, Tong Zhao, Tingxiang Zhu, Linan Li  
+Inline Detection of Dictionary DGA Domain Names with Reduced Cost and Latency  
+Pending, 2023  
 
-Ruian Duan, Zhanhao Chen, Janos Szurdi and Daiping Liu,
-Detecting And Protecting Claimable Non-Existent Domains
-Pending, 2023
+Ruian Duan, Zhanhao Chen, Janos Szurdi and Daiping Liu,  
+Detecting And Protecting Claimable Non-Existent Domains  
+Pending, 2023  
 
-Janos Szurdi, Mohamed Yoosuf Mohamed Nabeel, Shehroze Farooqi, George Morrison Jones and Arun Bala Kumar
-Methods To Detect Malicious Stockpiled Domain Names
-Pending, 2023
+Janos Szurdi, Mohamed Yoosuf Mohamed Nabeel, Shehroze Farooqi, George Morrison Jones and Arun Bala Kumar  
+Methods To Detect Malicious Stockpiled Domain Names  
+Pending, 2023  
 
 ### Talks
 
