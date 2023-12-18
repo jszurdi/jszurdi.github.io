@@ -11,19 +11,19 @@ permalink: /blog/stockpiled-detector/
 
 Cybercriminals register domain names for various malicious and illicit endeavors, including:
 
-Malware distribution
-    Potentially Unwanted Program (PUP) Distribution
-    Scams
-    Phishing
-    Command and Control (C2)
-    Hosting illicit adult, gambling and pirated movie websites
-    Blackhat Search Engine Optimization (SEO)
+* Malware distribution
+* Potentially Unwanted Program (PUP) Distribution
+* Scams
+* Phishing
+* Command and Control (C2)
+* Hosting illicit adult, gambling and pirated movie websites
+* Blackhat Search Engine Optimization (SEO)
 
 Defenders from early on tried to take down these domains or provided solutions to block them. Eventually, the struggle between criminals and defenders turned into the Domain Wars. On the one hand, cybercriminals started registering domain names at scale and employed techniques to make the detection of their domains harder, such as:
 
-    Aging domain names - not using domain names for attacks until they reach a certain age
-    Cloaking - where malicious sites present benign content to suspected web crawlers instead of the malicious content.
-    User targeting - showing malicious content to a subset of users and vulnerable users who can be tricked.
+* Aging domain names - not using domain names for attacks until they reach a certain age
+* Cloaking - where malicious sites present benign content to suspected web crawlers instead of the malicious content.
+* User targeting - showing malicious content to a subset of users and vulnerable users who can be tricked.
 
 On the other hand, defenders built increasingly sophisticated apparatus and models to identify malicious domain names. To have a fighting chance in the Domain Wars, various defenders started collaborating, including academic researchers, law enforcement, cybersecurity professionals, policymakers, and volunteers.
 
@@ -33,12 +33,12 @@ Leveraging these crumbs of information, we built a detector to identify stockpil
 
 To detect stockpiled domains, we engineered over 300 features in six categories. Our feature categories include the following:
 
-    Certificate reputation and aggregation
-    Certificate domain aggregation
-    Domain name lexical
-    Certificate lexical
-    pDNS reputation and aggregation
-    Combined pDNS and certificate aggregate features
+* Certificate reputation and aggregation
+* Certificate domain aggregation
+* Domain name lexical
+* Certificate lexical
+* pDNS reputation and aggregation
+* Combined pDNS and certificate aggregate features
 
 We processed many terabytes of data and billions of pDNS and certificate records to calculate these features. We used a knowledge base of millions of malicious and benign domains to calculate certificate and pDNS reputation and to train and test a random forest machine learning algorithm. Even though not all malicious domains are stockpiled, and not all attackers leave traces of information for us to use, our model has still achieved 99% precision with 48% recall.
 
