@@ -6,7 +6,7 @@ comments: true
 tags: ['DNS', 'domain names', 'security', 'cybercrime']
 thumbnail-img: "/assets/img/blog/2024/dns-hijacking-detector/cover.png"
 share-img: "/assets/img/blog/2024/dns-hijacking-detector/cover.png"
-permalink: /blog/dns-hijacking-detector/
+permalink: /blog/dns-hijacking/
 ---
 
 [DNS hijacking](https://en.wikipedia.org/wiki/DNS_hijacking)
