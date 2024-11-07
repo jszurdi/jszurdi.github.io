@@ -9,7 +9,7 @@ share-img: "/assets/img/blog/2024/dns-hijacking-detector/cover.png"
 permalink: /blog/dns-hijacking-detector/
 ---
 
-[DNS hijacking]{https://en.wikipedia.org/wiki/DNS_hijacking} 
+[DNS hijacking](https://en.wikipedia.org/wiki/DNS_hijacking)
 allows cybercriminals to modify the DNS records of benign domain names and redirect unsuspecting users to malicious servers. 
 Threat actors compromise domains for various attacks, including men-in-the-middle (MitM) attacks, drive-by downloads, phishing, and scams.
 DNS hijacking is a pervasive threat that can have catastrophic consequences for domain owners and their users. 
@@ -24,7 +24,7 @@ infiltrate the registrar/DNS service provider. For example, attackers can use ph
 to take over accounts. In such scenarios, mitigation techniques such as Domain Name System Security Extensions (DNSSEC) or 
 encrypting DNS queries and responses (e.g., DNS over HTTPS and DNS over TLS) are insufficient to prevent attackers from hijacking the records.
 
-Alternatively, attackers can hijack DNS records via [DNS cache poisoning]{https://en.wikipedia.org/wiki/DNS_spoofing} or other attacks manipulating DNS responses, 
+Alternatively, attackers can hijack DNS records via [DNS cache poisoning](https://en.wikipedia.org/wiki/DNS_spoofing) or other attacks manipulating DNS responses, 
 such as MitM attacks intercepting communication and modifying the DNS queries on the fly. 
 Cybercriminals hijack DNS records and change the resolution of domains to redirect requests for a domain to a destination they control. 
 DNS hijacking is typically a precursor to other attacks, such as scams or drive-by-downloads.
