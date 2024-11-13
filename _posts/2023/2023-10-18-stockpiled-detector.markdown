@@ -16,7 +16,7 @@ Cybercriminals register domain names for various malicious and illicit endeavors
 * Scams
 * Phishing
 * Command and Control (C2)
-* Hosting illicit adult, gambling and pirated movie websites
+* Hosting illicit adult, pirated movie and gambling websites
 * Blackhat Search Engine Optimization (SEO)
 
 Defenders from early on tried to take down these domains or provided solutions to block them. Eventually, the struggle between criminals and defenders turned into the **Domain Wars**. On the one hand, cybercriminals started registering domain names at scale and employed [techniques](https://dl.acm.org/doi/10.1145/3442381.3450071) to make the detection of their domains harder, such as:
