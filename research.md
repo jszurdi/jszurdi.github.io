@@ -131,7 +131,9 @@ Methods To Detect Malicious Stockpiled Domain Names
 Pending, 2023  
 
 ### Talks
-[Slides](/content/presentations/proactively_vb24_slides.pdf) of talk on using graphical neural networks to proactively uncover malicious infrastructure at Virus Bulletin 2024 in Dublin, Ireland.  
+[Slides](/content/presentations/ai_meetup_2025_04.pdf) of talk on AI in Web and DNS Security at Budapest AI Hub April 2024 in Budapest, Hungary.  
+[Slides](/content/presentations/proactively_vb24_slides.pdf) and 
+[recording](https://www.youtube.com/watch?v=VoB5p0Hq-yk) of talk on using graphical neural networks to proactively uncover malicious infrastructure at Virus Bulletin 2024 in Dublin, Ireland.  
 [Slides](/content/presentations/tds_www2021_slides.pdf) and 
 [recording](https://www.youtube.com/watch?v=605C6-_eIlE) of online talk on abusive traffic distribution systems at WWW 2021.  
 [Slides](/content/presentations/domainpolicy_weis2018_slides.pdf) of talk on domain registration policies and cybercrime at WEIS 2018 in Innsbruck, Austria.  
