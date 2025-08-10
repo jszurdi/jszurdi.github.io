@@ -114,39 +114,71 @@ Diss. Carnegie Mellon University, 2020.
 
 Janos Szurdi, Daiping Liu and Jun Wang  
 [Automated extraction and classification of malicious indicators](https://patents.google.com/patent/US20220272109A1/en)  
-US Patent App. 17/185,760.  2020.  
+US Patent App. 17/185,760.  2021.  
 [[BibTeX](/content/patents/autoioc-patent-2022.bib)]  
 [[PDF](/content/patents/autoioc-patent-2022.pdf)]  
 
 Janos Szurdi, Weihan Jiang and David Qianshan He  
 [System and method for detecting dictionary-based dga traffic ](https://patents.google.com/patent/US20230336528A1/en)  
-US Patent App. 17/723,292.  2021.  
+US Patent App. 17/723,292.  2022.  
 [[BibTeX](/content/patents/dictdga-patent-2023.bib)]  
 [[PDF](/content/patents/dictdga-patent-2023.pdf)]  
 
 Janos Szurdi, Rebekah Houser and Daiping Liu  
 [Detecting Shadowed Domains](https://patents.google.com/patent/US12309116B2/en)  
-US Patent App. . 2022  
-[[BibTeX](/content/patents/)]  
-[[PDF](/content/patents/)]  
+US Patent App. 17/878,665. 2022  
+[[BibTeX](/content/patents/domainshadowing-patent-2024.bib)]  
+[[PDF](/content/patents/domainshadowing-patent-2024.pdf)]  
 
 Janos Szurdi, Daiping Liu, Tong Zhao, Tingxiang Zhu, Linan Li  
 [Inline Detection of Dictionary DGA Domain Names with Reduced Cost and Latency](https://patents.google.com/patent/US20240364742A1/en)  
-US Patent App. . 2023  
-[[BibTeX](/content/patents/)]  
-[[PDF](/content/patents/)]  
+US Patent App. 18/309,105. 2023  
+[[BibTeX](/content/patents/inlinedictdga-patent-2024.bib)]  
+[[PDF](/content/patents/inlinedictdga-patent-2024.pdf)]  
 
 Ruian Duan, Zhanhao Chen, Janos Szurdi and Daiping Liu,  
 [Detecting And Protecting Claimable Non-Existent Domains](https://patents.google.com/patent/WO2025029455A1/en)  
-US Patent App. . 2023  
-[[BibTeX](/content/patents/)]  
-[[PDF](/content/patents/)]  
+US Patent App. 18/228,357. 2023  
+[[BibTeX](/content/patents/claimablenx-patent-2024.bib)]  
+[[PDF](/content/patents/claimablenx-patent-2024.pdf)]  
 
 Janos Szurdi, Mohamed Yoosuf Mohamed Nabeel, Shehroze Farooqi, George Morrison Jones and Arun Bala Kumar  
 [Methods To Detect Malicious Stockpiled Domain Names](https://patents.google.com/patent/US20250112935A1/en)  
-US Patent App. . 2023  
-[[BibTeX](/content/patents/)]  
-[[PDF](/content/patents/)]  
+US Patent App. 18/374,888. 2023  
+[[BibTeX](/content/patents/stockpiled-patent-2024.bib)]  
+[[PDF](/content/patents/stockpiled-patent-2024.pdf)]  
+
+Ruian Duan, Janos Szurdi and Daiping Liu  
+SCALABLE DOMAIN-LEVEL SINKHOLING AND INTERACTION OF NETWORK TRAFFIC.  
+Pending. 2024  
+
+Janos Szurdi, Daiping Liu, Zhanhao Chen, Ruian Duan and Mohammad Ghasemisharif  
+Proactively Defending Against DNS Compromise, Misuse, and Errors Using Historical Resource Records  
+Pending. 2024  
+
+Mohamed Yoosuf Mohamed Nabeel, Gaurav Mitesh Dalal, Shaown Sarker, Shehroze Farooqi and Janos Szurdi  
+REAL-TIME AUTOMATED EXTRACTION OF CAMPAIGN CTI FROM THREAT REPORTS  
+Pending. 2024  
+
+Janos Szurdi, Mohammad Ghasemisharif, Daiping Liu, Zhanhao Chen, Rebekah Houser, Fan Fei, Arun Bala Kumar and Yu-Hsiang Kao  
+METHODS TO DETECT DNS HIJACKING  
+Pending. 2025  
+
+Janos Szurdi, Mohammad Ghasemisharif, Zhanhao Chen, Daiping Liu, Wanjin Li and Fan Fei  
+REAL-TIME DETECTION OF DNS HIJACKING  
+Pending. 2025  
+
+Mohamed Yoosuf Mohamed Nabeel, Janos Szurdi, William Russell Melicher, Ruian Duan, Oleksii Starov and Daiping Liu  
+Pipeline For Intelligently Pre-filtering Candidates for Malicious Domain Detection  
+Pending. 2025  
+
+Mohammad Ghasemisharif, Janos Szurdi, Daiping Liu, Zhanhao Chen and Fan Fei  
+Improved DNS Hijacking Detection with Content and Server-Based Features and Delayed Filtering  
+Pending. 2025  
+
+Janos Szurdi, Mohammad Ghasemisharif, Fan Fei and Daiping Liu  
+A Cost-efficient Method to Detect DNS Hijacking Inline  
+Pending. 2025  
 
 ### Talks
 [Slides](/content/presentations/ai_meetup_2025_04.pdf) of talk on AI in Web and DNS Security at Budapest AI Hub April 2024 in Budapest, Hungary.  
