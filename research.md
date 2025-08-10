@@ -115,37 +115,37 @@ Diss. Carnegie Mellon University, 2020.
 Janos Szurdi, Daiping Liu and Jun Wang  
 [Automated extraction and classification of malicious indicators](https://patents.google.com/patent/US20220272109A1/en)  
 US Patent App. 17/185,760.  2021.  
-[[BibTeX](/content/patents/autoioc-patent-2022.bib)]  
+[[BibTeX](/content/patents/autoioc-patent-2022.bib)] 
 [[PDF](/content/patents/autoioc-patent-2022.pdf)]  
 
 Janos Szurdi, Weihan Jiang and David Qianshan He  
 [System and method for detecting dictionary-based dga traffic ](https://patents.google.com/patent/US20230336528A1/en)  
 US Patent App. 17/723,292.  2022.  
-[[BibTeX](/content/patents/dictdga-patent-2023.bib)]  
+[[BibTeX](/content/patents/dictdga-patent-2023.bib)] 
 [[PDF](/content/patents/dictdga-patent-2023.pdf)]  
 
 Janos Szurdi, Rebekah Houser and Daiping Liu  
 [Detecting Shadowed Domains](https://patents.google.com/patent/US12309116B2/en)  
 US Patent App. 17/878,665. 2022  
-[[BibTeX](/content/patents/domainshadowing-patent-2024.bib)]  
+[[BibTeX](/content/patents/domainshadowing-patent-2024.bib)] 
 [[PDF](/content/patents/domainshadowing-patent-2024.pdf)]  
 
 Janos Szurdi, Daiping Liu, Tong Zhao, Tingxiang Zhu, Linan Li  
 [Inline Detection of Dictionary DGA Domain Names with Reduced Cost and Latency](https://patents.google.com/patent/US20240364742A1/en)  
 US Patent App. 18/309,105. 2023  
-[[BibTeX](/content/patents/inlinedictdga-patent-2024.bib)]  
+[[BibTeX](/content/patents/inlinedictdga-patent-2024.bib)] 
 [[PDF](/content/patents/inlinedictdga-patent-2024.pdf)]  
 
 Ruian Duan, Zhanhao Chen, Janos Szurdi and Daiping Liu,  
 [Detecting And Protecting Claimable Non-Existent Domains](https://patents.google.com/patent/WO2025029455A1/en)  
 US Patent App. 18/228,357. 2023  
-[[BibTeX](/content/patents/claimablenx-patent-2024.bib)]  
+[[BibTeX](/content/patents/claimablenx-patent-2024.bib)] 
 [[PDF](/content/patents/claimablenx-patent-2024.pdf)]  
 
 Janos Szurdi, Mohamed Yoosuf Mohamed Nabeel, Shehroze Farooqi, George Morrison Jones and Arun Bala Kumar  
 [Methods To Detect Malicious Stockpiled Domain Names](https://patents.google.com/patent/US20250112935A1/en)  
 US Patent App. 18/374,888. 2023  
-[[BibTeX](/content/patents/stockpiled-patent-2024.bib)]  
+[[BibTeX](/content/patents/stockpiled-patent-2024.bib)] 
 [[PDF](/content/patents/stockpiled-patent-2024.pdf)]  
 
 Ruian Duan, Janos Szurdi and Daiping Liu  
