@@ -103,6 +103,11 @@ T. Halvorson, J. Szurdi, G. Maier, M. Felegyhazi, C. Kreibich, N. Weaver, K. Lev
 In Proceedings of Passive Active Measurements (PAM 2012), Vienna, Austria, March 12-14, 2012.  
 [[BibTeX](/content/academicpapers/dot-biz.pam12.bib)]  
 
+### Academic Service
+
+erved as a reviewer for [WWW 2025](https://www2024.thewebconf.org/organization/reviewers-of-research-tracks/) 
+and [WWW 2024](https://www2025.thewebconf.org/).
+
 ### Ph.D. Thesis
 
 Janos Szurdi  
