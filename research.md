@@ -7,6 +7,16 @@ use-site-title: false
 
 ### Research Articles
 
+Reethika Ramesh and Janos Szurdi
+[The Next Level: Typo DGAs Used in Malicious Redirection Chains](https://unit42.paloaltonetworks.com/typo-domain-generation-algorithms/)
+Palo Alto Networks's Unit42 blog. Published on 03/06/2025. Last accessed on 08/10/2025.  
+[[PDF](/content/industryresearch/typo-domain-generation-algorithms.pdf)]
+
+Moe Ghasemisharif, Janos Szurdi, Zhanhao Chen and Daiping Liu
+[Automatically Detecting DNS Hijacking in Passive DNS](https://unit42.paloaltonetworks.com/detect-dns-hijacking-passive-dns/)
+Palo Alto Networks's Unit42 blog. Published on 11/04/2024. Last accessed on 08/10/2025. 
+[[PDF](/content/industryresearch/detect-dns-hijacking-passive-dns.pdf)]
+
 Janos Szurdi, Shehroze Farooqi and Nabeel Mohamed  
 [Toward Ending the Domain Wars: Early Detection of Malicious Stockpiled Domains](https://unit42.paloaltonetworks.com/detecting-malicious-stockpiled-domains/)  
 Palo Alto Networks's Unit42 blog. Published on 12/15/2023. Last accessed on 12/18/2023.  
