@@ -7,15 +7,15 @@ use-site-title: false
 
 ### Research Articles
 
-Reethika Ramesh and Janos Szurdi
-[The Next Level: Typo DGAs Used in Malicious Redirection Chains](https://unit42.paloaltonetworks.com/typo-domain-generation-algorithms/)
+Reethika Ramesh and Janos Szurdi  
+[The Next Level: Typo DGAs Used in Malicious Redirection Chains](https://unit42.paloaltonetworks.com/typo-domain-generation-algorithms/)  
 Palo Alto Networks's Unit42 blog. Published on 03/06/2025. Last accessed on 08/10/2025.  
-[[PDF](/content/industryresearch/typo-domain-generation-algorithms.pdf)]
+[[PDF](/content/industryresearch/typo-domain-generation-algorithms.pdf)]  
 
-Moe Ghasemisharif, Janos Szurdi, Zhanhao Chen and Daiping Liu
-[Automatically Detecting DNS Hijacking in Passive DNS](https://unit42.paloaltonetworks.com/detect-dns-hijacking-passive-dns/)
-Palo Alto Networks's Unit42 blog. Published on 11/04/2024. Last accessed on 08/10/2025. 
-[[PDF](/content/industryresearch/detect-dns-hijacking-passive-dns.pdf)]
+Moe Ghasemisharif, Janos Szurdi, Zhanhao Chen and Daiping Liu  
+[Automatically Detecting DNS Hijacking in Passive DNS](https://unit42.paloaltonetworks.com/detect-dns-hijacking-passive-dns/)  
+Palo Alto Networks's Unit42 blog. Published on 11/04/2024. Last accessed on 08/10/2025.  
+[[PDF](/content/industryresearch/detect-dns-hijacking-passive-dns.pdf)]  
 
 Janos Szurdi, Shehroze Farooqi and Nabeel Mohamed  
 [Toward Ending the Domain Wars: Early Detection of Malicious Stockpiled Domains](https://unit42.paloaltonetworks.com/detecting-malicious-stockpiled-domains/)  
@@ -125,20 +125,28 @@ US Patent App. 17/723,292.  2021.
 [[PDF](/content/patents/dictdga-patent-2023.pdf)]  
 
 Janos Szurdi, Rebekah Houser and Daiping Liu  
-Detecting Shadowed Domains  
-Pending, 2022  
+[Detecting Shadowed Domains](https://patents.google.com/patent/US12309116B2/en)  
+US Patent App. . 2022  
+[[BibTeX](/content/patents/)]  
+[[PDF](/content/patents/)]  
 
 Janos Szurdi, Daiping Liu, Tong Zhao, Tingxiang Zhu, Linan Li  
-Inline Detection of Dictionary DGA Domain Names with Reduced Cost and Latency  
-Pending, 2023  
+[Inline Detection of Dictionary DGA Domain Names with Reduced Cost and Latency](https://patents.google.com/patent/US20240364742A1/en)  
+US Patent App. . 2023  
+[[BibTeX](/content/patents/)]  
+[[PDF](/content/patents/)]  
 
 Ruian Duan, Zhanhao Chen, Janos Szurdi and Daiping Liu,  
-Detecting And Protecting Claimable Non-Existent Domains  
-Pending, 2023  
+[Detecting And Protecting Claimable Non-Existent Domains](https://patents.google.com/patent/WO2025029455A1/en)  
+US Patent App. . 2023  
+[[BibTeX](/content/patents/)]  
+[[PDF](/content/patents/)]  
 
 Janos Szurdi, Mohamed Yoosuf Mohamed Nabeel, Shehroze Farooqi, George Morrison Jones and Arun Bala Kumar  
-Methods To Detect Malicious Stockpiled Domain Names  
-Pending, 2023  
+[Methods To Detect Malicious Stockpiled Domain Names](https://patents.google.com/patent/US20250112935A1/en)  
+US Patent App. . 2023  
+[[BibTeX](/content/patents/)]  
+[[PDF](/content/patents/)]  
 
 ### Talks
 [Slides](/content/presentations/ai_meetup_2025_04.pdf) of talk on AI in Web and DNS Security at Budapest AI Hub April 2024 in Budapest, Hungary.  
