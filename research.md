@@ -105,7 +105,7 @@ In Proceedings of Passive Active Measurements (PAM 2012), Vienna, Austria, March
 
 ### Academic Service
 
-erved as a reviewer for [WWW 2025](https://www2024.thewebconf.org/organization/reviewers-of-research-tracks/) 
+Served as a reviewer for [WWW 2025](https://www2024.thewebconf.org/organization/reviewers-of-research-tracks/) 
 and [WWW 2024](https://www2025.thewebconf.org/).
 
 ### Ph.D. Thesis
@@ -186,7 +186,7 @@ A Cost-efficient Method to Detect DNS Hijacking Inline
 Pending. 2025  
 
 ### Talks
-[Slides](/content/presentations/ai_meetup_2025_04.pdf) of talk on AI in Web and DNS Security at Budapest AI Hub April 2024 in Budapest, Hungary.  
+[Slides](/content/presentations/ai_meetup_2025_04.pdf) of talk on AI in Web and DNS Security at Budapest AI Hub April 2025 in Budapest, Hungary.  
 [Slides](/content/presentations/proactively_vb24_slides.pdf) and 
 [recording](https://www.youtube.com/watch?v=VoB5p0Hq-yk) of talk on using graphical neural networks to proactively uncover malicious infrastructure at Virus Bulletin 2024 in Dublin, Ireland.  
 [Slides](/content/presentations/tds_www2021_slides.pdf) and 
