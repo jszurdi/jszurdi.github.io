@@ -185,9 +185,9 @@ Janos Szurdi, Mohammad Ghasemisharif, Fan Fei and Daiping Liu
 A Cost-efficient Method to Detect DNS Hijacking Inline  
 Pending. 2025  
 
-Real-time Detection and Mitigation of Certified Hijacking Attacks
-Ruian Duan, Janos Szurdi, Mohamed Yoosuf Mohamed Nabeel and Daiping Liu 
-Pending. 2025
+Real-time Detection and Mitigation of Certified Hijacking Attacks  
+Ruian Duan, Janos Szurdi, Mohamed Yoosuf Mohamed Nabeel and Daiping Liu  
+Pending. 2025  
 
 ### Talks
 
