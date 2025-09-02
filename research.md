@@ -185,7 +185,13 @@ Janos Szurdi, Mohammad Ghasemisharif, Fan Fei and Daiping Liu
 A Cost-efficient Method to Detect DNS Hijacking Inline  
 Pending. 2025  
 
+Real-time Detection and Mitigation of Certified Hijacking Attacks
+Ruian Duan, Janos Szurdi, Mohamed Yoosuf Mohamed Nabeel and Daiping Liu 
+Pending. 2025
+
 ### Talks
+
+[Slides](https://docs.google.com/presentation/d/1aNUMy1QyLew8hjVG6_B68E7c6LkeEg0s3bbcAUX56fs/edit?usp=sharing) of presentation on the potential role of public policy to combat malicious domain registrations to the Law and Policy Subcommittee of the Maryland Cybersecurity Council in 2025.  
 [Slides](/content/presentations/ai_meetup_2025_04.pdf) of talk on AI in Web and DNS Security at Budapest AI Hub April 2025 in Budapest, Hungary.  
 [Slides](/content/presentations/proactively_vb24_slides.pdf) and 
 [recording](https://www.youtube.com/watch?v=VoB5p0Hq-yk) of talk on using graphical neural networks to proactively uncover malicious infrastructure at Virus Bulletin 2024 in Dublin, Ireland.  
