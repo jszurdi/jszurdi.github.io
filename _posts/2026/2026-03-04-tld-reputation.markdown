@@ -20,7 +20,7 @@ In our paper, we explore how new generations of generic  top-level domains (gTLD
 
 ![Malicious Ratio of TLD generations.](/assets/img/blog/2026/tld-reputation/cover.png)
 
-These findings question the value of [ICANN’s DNS Abuse Mitigation Program](https://www.icann.org/resources/pages/dns-security-threat-mitigation-2025-11-21-en) for the Internet community at large and whether new domain registration policies are needed to curb malicious registrations in these new TLD generations. We argue that **ICANN’s current DNS abuse mitigation program** will not help and that policy proposals from researchers should be taken seriously. In particular, the extremely low pricing of new gTLDs enables massive malicious domain registration campaigns. Therefore, at least a **mandatory minimum domain registration price** would be a great first step to improve the current state of the domain landscape.
+These findings question the value of [ICANN’s new gTLD program](https://newgtldprogram.icann.org/en) for the Internet community at large and whether new domain registration policies are needed to curb malicious registrations in these new TLD generations. We argue that [ICANN’s current DNS abuse mitigation program](https://www.icann.org/resources/pages/dns-security-threat-mitigation-2025-11-21-en) will not help and that policy proposals from researchers should be taken seriously. In particular, the extremely low pricing of new gTLDs enables massive malicious domain registration campaigns. Therefore, at least a **mandatory minimum domain registration price** would be a great first step to improve the current state of the domain landscape.
 
 Our paper can be found here and [here](https://janos.szurdi.com/content/academicpapers/madweb26-tldreputation.pdf).
 
