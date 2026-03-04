@@ -2,7 +2,7 @@
 layout: post
 title: 'Automatic Detection of DNS Hijacking'
 date: '2024-11-06 19:00'
-comments: true
+comments: false
 tags: ['DNS', 'domain names', 'security', 'cybercrime']
 thumbnail-img: "/assets/img/blog/2024/dns-hijacking-detector/cover.png"
 share-img: "/assets/img/blog/2024/dns-hijacking-detector/cover.png"

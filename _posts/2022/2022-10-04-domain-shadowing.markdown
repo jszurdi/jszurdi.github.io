@@ -2,7 +2,7 @@
 layout: post
 title: 'Domain Shadowing'
 date: '2022-10-04 22:00'
-comments: true
+comments: false
 tags: ['computer security', 'DNS security']
 thumbnail-img: "/assets/img/blog/2022/domain-shadowing/cover.jpeg"
 share-img: "/assets/img/blog/2022/domain-shadowing/cover.jpeg"

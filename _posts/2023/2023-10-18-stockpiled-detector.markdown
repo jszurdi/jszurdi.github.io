@@ -2,7 +2,7 @@
 layout: post
 title: 'Domain Wars: Detecting Stockpiled Domains'
 date: '2023-12-18 9:00'
-comments: true
+comments: false
 tags: ['DNS', 'domain names', 'machine learning', 'cybercrime']
 thumbnail-img: "/assets/img/blog/2023/stockpiled-detector/cover.png"
 share-img: "/assets/img/blog/2023/stockpiled-detector/cover.png"

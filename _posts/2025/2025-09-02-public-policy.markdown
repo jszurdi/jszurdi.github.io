@@ -2,7 +2,7 @@
 layout: post
 title: 'The Role of Public Policy in Combating Malicious Domain Registrations'
 date: '2025-09-02 04:00'
-comments: true
+comments: false
 tags: ['DNS', 'domain names', 'security', 'cybercrime']
 thumbnail-img: "/assets/img/blog/2025/public-policy/cover.png"
 share-img: "/assets/img/blog/2025/public-policy/cover.png"
