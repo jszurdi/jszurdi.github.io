@@ -60,9 +60,9 @@ Palo Alto Networks's Unit42 blog. Published on 04/22/2020. Last accessed on 09/3
 
 ### Peer Reviewed Research
 
-Janos Szurdi, Reethika Ramesh, Ram Sundara Raman, and Daiping Liu 
+Janos Szurdi, Reethika Ramesh, Ram Sundara Raman, and Daiping Liu  
 [Not What It Used To Be: Generational Analysis of Top-level Domain Reputation](/content/academicpapers/madweb26-tldreputation.pdf)  
-In Proceedings of the Workshop on Measurements, Attacks, and Defenses for the Web (MADWeb'26)). San Diego, USA. 2026.   
+In Proceedings of the Workshop on Measurements, Attacks, and Defenses for the Web (MADWeb'26). San Diego, USA. 2026.   
 [[Slides](/content/presentations/tld-reputation-presentation.pdf)] 
 
 Janos Szurdi, Meng Luo, Brian Kondracki, Nick Nikiforakis and Nicolas Christin  
