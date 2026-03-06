@@ -211,14 +211,22 @@ Diss. Carnegie Mellon University, 2020.
 
 <details markdown="1"><summary><h3>Talks</h3></summary>
 
+[Slides](https://janos.szurdi.com/content/presentations/tld-reputation-presentation.pdf) of talk on TLD reputation at MADWeb 2026 in San Diego, CA, U.S. 
+
 [Slides](https://docs.google.com/presentation/d/1aNUMy1QyLew8hjVG6_B68E7c6LkeEg0s3bbcAUX56fs/edit?usp=sharing) of presentation on the potential role of public policy to combat malicious domain registrations to the Law and Policy Subcommittee of the Maryland Cybersecurity Council in 2025.  
+
 [Slides](/content/presentations/ai_meetup_2025_04.pdf) of talk on AI in Web and DNS Security at Budapest AI Hub April 2025 in Budapest, Hungary.  
+
 [Slides](/content/presentations/proactively_vb24_slides.pdf) and 
 [recording](https://www.youtube.com/watch?v=VoB5p0Hq-yk) of talk on using graphical neural networks to proactively uncover malicious infrastructure at Virus Bulletin 2024 in Dublin, Ireland.  
+
 [Slides](/content/presentations/tds_www2021_slides.pdf) and 
 [recording](https://www.youtube.com/watch?v=605C6-_eIlE) of online talk on abusive traffic distribution systems at WWW 2021.  
+
 [Slides](/content/presentations/domainpolicy_weis2018_slides.pdf) of talk on domain registration policies and cybercrime at WEIS 2018 in Innsbruck, Austria.  
+
 [Slides](/content/presentations/email_imc17_slides.pdf) of talk on email typosquatting at AMC IMC 2017 in London, U.K.  
+
 [Slides](/content/presentations/typo_usec14_slides.pdf) of talk on web typosquatting at Usenix Security 2014 in San Diego, CA, U.S.  
 
 </details>
