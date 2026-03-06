@@ -1,0 +1,9 @@
+/* Remove the default arrow for standard browsers */
+details > summary {
+  list-style: none;
+}
+
+/* Remove the default arrow for Safari and older Chrome */
+details > summary::-webkit-details-marker {
+  display: none;
+}
