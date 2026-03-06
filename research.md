@@ -5,7 +5,7 @@ subtitle:
 use-site-title: false
 ---
 
-### Research Articles
+<details><summary>### Research Articles</summary>
 
 Reethika Ramesh and Janos Szurdi  
 [The Next Level: Typo DGAs Used in Malicious Redirection Chains](https://unit42.paloaltonetworks.com/typo-domain-generation-algorithms/)  
@@ -58,7 +58,9 @@ Palo Alto Networks's Unit42 blog. Published on 04/22/2020. Last accessed on 09/3
 [[PDF](/content/industryresearch/coviddomains-2020.pdf)]  
 [Report on results utilized by Interpol](/content/industryresearch/global-landscape-on-COVID-19-cyberthreat.pdf)  
 
-### Peer Reviewed Research
+</details>
+
+<details><summary>### Peer Reviewed Research</summary>
 
 Janos Szurdi, Reethika Ramesh, Ram Sundara Raman, and Daiping Liu  
 [Not What It Used To Be: Generational Analysis of Top-level Domain Reputation](/content/academicpapers/madweb26-tldreputation.pdf)  
@@ -108,19 +110,25 @@ T. Halvorson, J. Szurdi, G. Maier, M. Felegyhazi, C. Kreibich, N. Weaver, K. Lev
 In Proceedings of Passive Active Measurements (PAM 2012), Vienna, Austria, March 12-14, 2012.  
 [[BibTeX](/content/academicpapers/dot-biz.pam12.bib)]  
 
-### Academic Service
+</details>
+
+<details><summary>### Academic Service</summary>
 
 Served as a reviewer for [WWW 2025](https://www2024.thewebconf.org/organization/reviewers-of-research-tracks/) 
 and [WWW 2024](https://www2025.thewebconf.org/).
 
-### Ph.D. Thesis
+</details>
+
+<details><summary>### Ph.D. Thesis</summary>
 
 Janos Szurdi  
 [Measuring and Analyzing Typosquatting Toward Fighting Abusive Domain Registrations.](/content/thesis/jszurdi-phd-thesis.pdf)  
 Diss. Carnegie Mellon University, 2020.  
 [[BibTeX](/content/thesis/thesis-szurdi2020.bib)]   
 
-### Patents
+</details>
+
+<details><summary>### Patents</summary>
 
 Janos Szurdi, Daiping Liu and Jun Wang  
 [Automated extraction and classification of malicious indicators](https://patents.google.com/patent/US20220272109A1/en)  
@@ -194,7 +202,9 @@ Real-time Detection and Mitigation of Certified Hijacking Attacks
 Ruian Duan, Janos Szurdi, Mohamed Yoosuf Mohamed Nabeel and Daiping Liu  
 Pending. 2025  
 
-### Talks
+</details>
+
+<details><summary>### Talks</summary>
 
 [Slides](https://docs.google.com/presentation/d/1aNUMy1QyLew8hjVG6_B68E7c6LkeEg0s3bbcAUX56fs/edit?usp=sharing) of presentation on the potential role of public policy to combat malicious domain registrations to the Law and Policy Subcommittee of the Maryland Cybersecurity Council in 2025.  
 [Slides](/content/presentations/ai_meetup_2025_04.pdf) of talk on AI in Web and DNS Security at Budapest AI Hub April 2025 in Budapest, Hungary.  
@@ -206,7 +216,10 @@ Pending. 2025
 [Slides](/content/presentations/email_imc17_slides.pdf) of talk on email typosquatting at AMC IMC 2017 in London, U.K.  
 [Slides](/content/presentations/typo_usec14_slides.pdf) of talk on web typosquatting at Usenix Security 2014 in San Diego, CA, U.S.  
 
-### Other
+</details>
+
+<details><summary>### Other</summary>
 
 Acknowledgement for finding a dangling DNS vulnerability in one of Microsoft's online services: [link](https://msrc.microsoft.com/update-guide/acknowledgement/).  
 
+</details>
