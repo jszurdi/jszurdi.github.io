@@ -5,62 +5,7 @@ subtitle:
 use-site-title: false
 ---
 
-<details markdown="1"><summary><h3>Research Articles</h3></summary>
-
-Reethika Ramesh and Janos Szurdi  
-[The Next Level: Typo DGAs Used in Malicious Redirection Chains](https://unit42.paloaltonetworks.com/typo-domain-generation-algorithms/)  
-Palo Alto Networks's Unit42 blog. Published on 03/06/2025. Last accessed on 08/10/2025.  
-[[PDF](/content/industryresearch/typo-domain-generation-algorithms.pdf)]  
-
-Moe Ghasemisharif, Janos Szurdi, Zhanhao Chen and Daiping Liu  
-[Automatically Detecting DNS Hijacking in Passive DNS](https://unit42.paloaltonetworks.com/detect-dns-hijacking-passive-dns/)  
-Palo Alto Networks's Unit42 blog. Published on 11/04/2024. Last accessed on 08/10/2025.  
-[[PDF](/content/industryresearch/detect-dns-hijacking-passive-dns.pdf)]  
-
-Janos Szurdi, Shehroze Farooqi and Nabeel Mohamed  
-[Toward Ending the Domain Wars: Early Detection of Malicious Stockpiled Domains](https://unit42.paloaltonetworks.com/detecting-malicious-stockpiled-domains/)  
-Palo Alto Networks's Unit42 blog. Published on 12/15/2023. Last accessed on 12/18/2023.  
-[[PDF](/content/industryresearch/stockpileddetector-2023.pdf)]  
-
-Janos Szurdi, Rebekah Houser and Daiping Liu  
-[Domain Shadowing: A Stealthy Use of DNS Compromise for Cybercrime](https://unit42.paloaltonetworks.com/domain-shadowing/)  
-Palo Alto Networks's Unit42 blog. Published on 09/21/2022. Last accessed on 09/30/2022.  
-[[PDF](/content/industryresearch/domainshadowing-2022.pdf)]  
-
-Janos Szurdi  
-[Tor 101: How Tor Works and its Risks to the Enterprise](https://unit42.paloaltonetworks.com/tor-traffic-enterprise-networks/)  
-Palo Alto Networks's Unit42 blog. Published on 08/29/2022. Last accessed on 09/30/2022.  
-[[PDF](/content/industryresearch/tor-2022.pdf)]  
-
-Janos Szurdi  
-[A Peek into Top-Level Domains and Cybercrime](https://unit42.paloaltonetworks.com/top-level-domains-cybercrime/)  
-Palo Alto Networks's Unit42 blog. Published on 11/11/2021. Last accessed on 09/30/2022.  
-[[PDF](/content/industryresearch/tld-2021.pdf)]  
-
-Janos Szurdi, Rebekah Houser and Daiping Liu  
-[Fast Flux 101: How Cybercriminals Improve the Resilience of Their Infrastructure to Evade Detection and Law Enforcement Takedowns](https://unit42.paloaltonetworks.com/fast-flux-101/)  
-Palo Alto Networks's Unit42 blog. Published on 03/02/2021. Last accessed on 09/30/2022.  
-[[PDF](/content/industryresearch/fastflux-2021.pdf)]  
-
-Ruian Duan, Zhanhao Chen, Seokkyung Chung, Janos Szurdi and Jingwei Fan  
-[Domain Parking: A Gateway to Attackers Spreading Emotet and Impersonating McAfee](https://unit42.paloaltonetworks.com/domain-parking/)  
-Palo Alto Networks's Unit42 blog. Published on 10/29/2020. Last accessed on 09/30/2022.  
-[[PDF](/content/industryresearch/domainparking-2020.pdf)]  
-
-Zhanhao Chen and Janos Szurdi  
-[Cybersquatting: Attackers Mimicking Domains of Major Brands Including Facebook, Apple, Amazon and Netflix to Scam Consumers](https://unit42.paloaltonetworks.com/cybersquatting/)  
-Palo Alto Networks's Unit42 blog. Published on 09/01/2020. Last accessed on 09/30/2022.  
-[[PDF](/content/industryresearch/cybersquatting-2020.pdf)]  
-
-Janos Szurdi, Zhanhao Chen, Oleksii Starov, Adrian McCabe and Ruian Duan  
-[Studying How Cybercriminals Prey on the COVID-19 Pandemic](https://unit42.paloaltonetworks.com/how-cybercriminals-prey-on-the-covid-19-pandemic/)  
-Palo Alto Networks's Unit42 blog. Published on 04/22/2020. Last accessed on 09/30/2022.  
-[[PDF](/content/industryresearch/coviddomains-2020.pdf)]  
-[Report on results utilized by Interpol](/content/industryresearch/global-landscape-on-COVID-19-cyberthreat.pdf)  
-
-</details>
-
-<details markdown="1"><summary><h3>Peer Reviewed Research</h3></summary>
+<details markdown="1"><summary><h3>Peer-reviewed Research</h3></summary>
 
 Janos Szurdi, Reethika Ramesh, Ram Sundara Raman, and Daiping Liu  
 [Not What It Used To Be: Generational Analysis of Top-level Domain Reputation](/content/academicpapers/madweb26-tldreputation.pdf)  
@@ -112,21 +57,6 @@ In Proceedings of Passive Active Measurements (PAM 2012), Vienna, Austria, March
 
 </details>
 
-<details markdown="1"><summary><h3>Academic Service</h3></summary>
-
-Served as a reviewer for [WWW 2025](https://www2024.thewebconf.org/organization/reviewers-of-research-tracks/) 
-and [WWW 2024](https://www2025.thewebconf.org/).
-
-</details>
-
-<details markdown="1"><summary><h3>Ph.D. Thesis</h3></summary>
-
-Janos Szurdi  
-[Measuring and Analyzing Typosquatting Toward Fighting Abusive Domain Registrations.](/content/thesis/jszurdi-phd-thesis.pdf)  
-Diss. Carnegie Mellon University, 2020.  
-[[BibTeX](/content/thesis/thesis-szurdi2020.bib)]   
-
-</details>
 
 <details markdown="1"><summary><h3>Patents</h3></summary>
 
@@ -203,6 +133,80 @@ Ruian Duan, Janos Szurdi, Mohamed Yoosuf Mohamed Nabeel and Daiping Liu
 Pending. 2025  
 
 </details>
+
+<details markdown="1"><summary><h3>Research Articles</h3></summary>
+
+Reethika Ramesh and Janos Szurdi  
+[The Next Level: Typo DGAs Used in Malicious Redirection Chains](https://unit42.paloaltonetworks.com/typo-domain-generation-algorithms/)  
+Palo Alto Networks's Unit42 blog. Published on 03/06/2025. Last accessed on 08/10/2025.  
+[[PDF](/content/industryresearch/typo-domain-generation-algorithms.pdf)]  
+
+Moe Ghasemisharif, Janos Szurdi, Zhanhao Chen and Daiping Liu  
+[Automatically Detecting DNS Hijacking in Passive DNS](https://unit42.paloaltonetworks.com/detect-dns-hijacking-passive-dns/)  
+Palo Alto Networks's Unit42 blog. Published on 11/04/2024. Last accessed on 08/10/2025.  
+[[PDF](/content/industryresearch/detect-dns-hijacking-passive-dns.pdf)]  
+
+Janos Szurdi, Shehroze Farooqi and Nabeel Mohamed  
+[Toward Ending the Domain Wars: Early Detection of Malicious Stockpiled Domains](https://unit42.paloaltonetworks.com/detecting-malicious-stockpiled-domains/)  
+Palo Alto Networks's Unit42 blog. Published on 12/15/2023. Last accessed on 12/18/2023.  
+[[PDF](/content/industryresearch/stockpileddetector-2023.pdf)]  
+
+Janos Szurdi, Rebekah Houser and Daiping Liu  
+[Domain Shadowing: A Stealthy Use of DNS Compromise for Cybercrime](https://unit42.paloaltonetworks.com/domain-shadowing/)  
+Palo Alto Networks's Unit42 blog. Published on 09/21/2022. Last accessed on 09/30/2022.  
+[[PDF](/content/industryresearch/domainshadowing-2022.pdf)]  
+
+Janos Szurdi  
+[Tor 101: How Tor Works and its Risks to the Enterprise](https://unit42.paloaltonetworks.com/tor-traffic-enterprise-networks/)  
+Palo Alto Networks's Unit42 blog. Published on 08/29/2022. Last accessed on 09/30/2022.  
+[[PDF](/content/industryresearch/tor-2022.pdf)]  
+
+Janos Szurdi  
+[A Peek into Top-Level Domains and Cybercrime](https://unit42.paloaltonetworks.com/top-level-domains-cybercrime/)  
+Palo Alto Networks's Unit42 blog. Published on 11/11/2021. Last accessed on 09/30/2022.  
+[[PDF](/content/industryresearch/tld-2021.pdf)]  
+
+Janos Szurdi, Rebekah Houser and Daiping Liu  
+[Fast Flux 101: How Cybercriminals Improve the Resilience of Their Infrastructure to Evade Detection and Law Enforcement Takedowns](https://unit42.paloaltonetworks.com/fast-flux-101/)  
+Palo Alto Networks's Unit42 blog. Published on 03/02/2021. Last accessed on 09/30/2022.  
+[[PDF](/content/industryresearch/fastflux-2021.pdf)]  
+
+Ruian Duan, Zhanhao Chen, Seokkyung Chung, Janos Szurdi and Jingwei Fan  
+[Domain Parking: A Gateway to Attackers Spreading Emotet and Impersonating McAfee](https://unit42.paloaltonetworks.com/domain-parking/)  
+Palo Alto Networks's Unit42 blog. Published on 10/29/2020. Last accessed on 09/30/2022.  
+[[PDF](/content/industryresearch/domainparking-2020.pdf)]  
+
+Zhanhao Chen and Janos Szurdi  
+[Cybersquatting: Attackers Mimicking Domains of Major Brands Including Facebook, Apple, Amazon and Netflix to Scam Consumers](https://unit42.paloaltonetworks.com/cybersquatting/)  
+Palo Alto Networks's Unit42 blog. Published on 09/01/2020. Last accessed on 09/30/2022.  
+[[PDF](/content/industryresearch/cybersquatting-2020.pdf)]  
+
+Janos Szurdi, Zhanhao Chen, Oleksii Starov, Adrian McCabe and Ruian Duan  
+[Studying How Cybercriminals Prey on the COVID-19 Pandemic](https://unit42.paloaltonetworks.com/how-cybercriminals-prey-on-the-covid-19-pandemic/)  
+Palo Alto Networks's Unit42 blog. Published on 04/22/2020. Last accessed on 09/30/2022.  
+[[PDF](/content/industryresearch/coviddomains-2020.pdf)]  
+[Report on results utilized by Interpol](/content/industryresearch/global-landscape-on-COVID-19-cyberthreat.pdf)  
+
+</details>
+
+
+
+<details markdown="1"><summary><h3>Academic Service</h3></summary>
+
+Served as a reviewer for [WWW 2025](https://www2024.thewebconf.org/organization/reviewers-of-research-tracks/) 
+and [WWW 2024](https://www2025.thewebconf.org/).
+
+</details>
+
+<details markdown="1"><summary><h3>Ph.D. Thesis</h3></summary>
+
+Janos Szurdi  
+[Measuring and Analyzing Typosquatting Toward Fighting Abusive Domain Registrations.](/content/thesis/jszurdi-phd-thesis.pdf)  
+Diss. Carnegie Mellon University, 2020.  
+[[BibTeX](/content/thesis/thesis-szurdi2020.bib)]   
+
+</details>
+
 
 <details markdown="1"><summary><h3>Talks</h3></summary>
 
