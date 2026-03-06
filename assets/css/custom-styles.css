@@ -10,5 +10,5 @@ details > summary::-webkit-details-marker {
 }
 
 details > summary:hover h3 {
-  color: #007bff; /* Changes the heading text to blue */
+  color: #0085A1; /* Changes the heading text to blue */
 }
