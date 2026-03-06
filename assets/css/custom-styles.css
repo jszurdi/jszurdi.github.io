@@ -2,9 +2,6 @@
 details > summary {
   list-style: none;
   cursor: pointer; /* Turns the mouse into a pointing hand */
-  padding: 5px 10px; /* Adds a little breathing room around the text */
-  border-radius: 5px; /* Rounds the corners of the highlight */
-  transition: background-color 0.2s ease; /* Makes the highlight fade in smoothly */
 }
 
 /* Remove the default arrow for Safari and older Chrome */
@@ -12,7 +9,6 @@ details > summary::-webkit-details-marker {
   display: none;
 }
 
-/* The highlight effect when hovering */
-details > summary:hover {
-  background-color: #f0f0f0; /* A subtle, professional light gray */
+details > summary:hover h3 {
+  color: #007bff; /* Changes the heading text to blue */
 }
