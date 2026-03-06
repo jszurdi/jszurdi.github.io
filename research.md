@@ -5,7 +5,7 @@ subtitle:
 use-site-title: false
 ---
 
-<details markdown="1"><summary>### Research Articles</summary>
+<details markdown="1"><summary><h3>Research Articles</h3></summary>
 
 Reethika Ramesh and Janos Szurdi  
 [The Next Level: Typo DGAs Used in Malicious Redirection Chains](https://unit42.paloaltonetworks.com/typo-domain-generation-algorithms/)  
@@ -60,7 +60,7 @@ Palo Alto Networks's Unit42 blog. Published on 04/22/2020. Last accessed on 09/3
 
 </details>
 
-<details markdown="1"><summary>### Peer Reviewed Research</summary>
+<details markdown="1"><summary><h3>Peer Reviewed Research</h3></summary>
 
 Janos Szurdi, Reethika Ramesh, Ram Sundara Raman, and Daiping Liu  
 [Not What It Used To Be: Generational Analysis of Top-level Domain Reputation](/content/academicpapers/madweb26-tldreputation.pdf)  
@@ -112,14 +112,14 @@ In Proceedings of Passive Active Measurements (PAM 2012), Vienna, Austria, March
 
 </details>
 
-<details markdown="1"><summary>### Academic Service</summary>
+<details markdown="1"><summary><h3>Academic Service</h3></summary>
 
 Served as a reviewer for [WWW 2025](https://www2024.thewebconf.org/organization/reviewers-of-research-tracks/) 
 and [WWW 2024](https://www2025.thewebconf.org/).
 
 </details>
 
-<details markdown="1"><summary>### Ph.D. Thesis</summary>
+<details markdown="1"><summary><h3>Ph.D. Thesis</h3></summary>
 
 Janos Szurdi  
 [Measuring and Analyzing Typosquatting Toward Fighting Abusive Domain Registrations.](/content/thesis/jszurdi-phd-thesis.pdf)  
@@ -128,7 +128,7 @@ Diss. Carnegie Mellon University, 2020.
 
 </details>
 
-<details markdown="1"><summary>### Patents</summary>
+<details markdown="1"><summary><h3>Patents</h3></summary>
 
 Janos Szurdi, Daiping Liu and Jun Wang  
 [Automated extraction and classification of malicious indicators](https://patents.google.com/patent/US20220272109A1/en)  
@@ -204,7 +204,7 @@ Pending. 2025
 
 </details>
 
-<details markdown="1"><summary>### Talks</summary>
+<details markdown="1"><summary><h3>Talks</h3></summary>
 
 [Slides](https://docs.google.com/presentation/d/1aNUMy1QyLew8hjVG6_B68E7c6LkeEg0s3bbcAUX56fs/edit?usp=sharing) of presentation on the potential role of public policy to combat malicious domain registrations to the Law and Policy Subcommittee of the Maryland Cybersecurity Council in 2025.  
 [Slides](/content/presentations/ai_meetup_2025_04.pdf) of talk on AI in Web and DNS Security at Budapest AI Hub April 2025 in Budapest, Hungary.  
@@ -218,7 +218,7 @@ Pending. 2025
 
 </details>
 
-<details markdown="1"><summary>### Other</summary>
+<details markdown="1"><summary><h3>Other</h3></summary>
 
 Acknowledgement for finding a dangling DNS vulnerability in one of Microsoft's online services: [link](https://msrc.microsoft.com/update-guide/acknowledgement/).  
 
