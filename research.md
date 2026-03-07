@@ -215,7 +215,11 @@ Palo Alto Networks's Unit42 blog. Published on 04/22/2020. Last accessed on 09/3
 
 
 <details markdown="1">
-<summary markdown="block">### Academic Service</summary>
+<summary markdown="block">
+
+### Academic Service
+
+</summary>
 
 Served as a reviewer for [WWW 2025](https://www2024.thewebconf.org/organization/reviewers-of-research-tracks/) 
 and [WWW 2024](https://www2025.thewebconf.org/).
@@ -224,7 +228,11 @@ and [WWW 2024](https://www2025.thewebconf.org/).
 
 
 <details markdown="1">
-<summary markdown="block">### Ph.D. Thesis</summary>
+<summary markdown="block">
+
+### Ph.D. Thesis
+
+</summary>
 
 Janos Szurdi  
 [Measuring and Analyzing Typosquatting Toward Fighting Abusive Domain Registrations.](/content/thesis/jszurdi-phd-thesis.pdf)  
@@ -264,7 +272,11 @@ Diss. Carnegie Mellon University, 2020.
 
 
 <details markdown="1">
-<summary markdown="block">### Other</summary>
+<summary markdown="block">
+
+### Other
+
+</summary>
 
 Acknowledgement for finding a dangling DNS vulnerability in one of Microsoft's online services: [link](https://msrc.microsoft.com/update-guide/acknowledgement/).  
 
