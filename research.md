@@ -115,13 +115,13 @@ Ruian Duan, Janos Szurdi and Daiping Liu
 [Scalable Domain-level Sinkholing and Interaction of Network Traffic](https://patents.google.com/patent/US20250310362A1)
 US Patent App. 18/620,606 2025
 [[BibTeX](/content/patents/scalablesinkhole-patent-2025.bib)] 
-[PDF
+[[PDF](#)]
 
 Janos Szurdi, Mohammad Ghasemisharif, Daiping Liu, Zhanhao Chen, Rebekah Houser, Fan Fei, Arun Bala Kumar and Yu-Hsiang Kao  
 [Methods to Detect DNS Hijacking](https://patents.google.com/patent/US20260039681A1)
 US Patent App. 19/224,284 2026  
 [[BibTeX](/content/patents/scalablesinkhole-patent-2025.bib)] 
-[PDF]
+[[PDF](#)]
 
 Janos Szurdi, Daiping Liu, Zhanhao Chen, Ruian Duan and Mohammad Ghasemisharif  
 Proactively Defending Against DNS Compromise, Misuse, and Errors Using Historical Resource Records  
