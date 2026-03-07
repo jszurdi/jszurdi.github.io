@@ -8,7 +8,9 @@ ext-css:
 ---
 
 <details class="paper-preview" markdown="1">
-<summary><h3>Peer-reviewed Research</h3></summary>
+<summary markdown="block">
+
+### Peer-reviewed Research
 
 Janos Szurdi, Reethika Ramesh, Ram Sundara Raman, and Daiping Liu  
 [Not What It Used To Be: Generational Analysis of Top-level Domain Reputation](/content/academicpapers/madweb26-tldreputation.pdf)  
@@ -16,6 +18,9 @@ In Proceedings of the Workshop on Measurements, Attacks, and Defenses for the We
 [**Distinguished Paper Award**]
 [[Slides](/content/presentations/tld-reputation-presentation.pdf)] 
 [[Data](https://github.com/PaloAltoNetworks/tld-metrics)]
+
+</summary>
+
 
 Janos Szurdi, Meng Luo, Brian Kondracki, Nick Nikiforakis and Nicolas Christin  
 [Where are you taking me? understanding abusive traffic distribution systems](/content/academicpapers/Szurdi-WWW21.pdf)  
