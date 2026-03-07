@@ -101,8 +101,16 @@ US Patent App. 18/374,888. 2023
 [[PDF](/content/patents/stockpiled-patent-2024.pdf)]  
 
 Ruian Duan, Janos Szurdi and Daiping Liu  
-SCALABLE DOMAIN-LEVEL SINKHOLING AND INTERACTION OF NETWORK TRAFFIC.  
-Pending. 2024  
+[Scalable Domain-level Sinkholing and Interaction of Network Traffic](https://patents.google.com/patent/US20250310362A1)
+US Patent App. 18/620,606 2025
+[[BibTeX](/content/patents/scalablesinkhole-patent-2025.bib)] 
+[PDF
+
+Janos Szurdi, Mohammad Ghasemisharif, Daiping Liu, Zhanhao Chen, Rebekah Houser, Fan Fei, Arun Bala Kumar and Yu-Hsiang Kao  
+[Methods to Detect DNS Hijacking](https://patents.google.com/patent/US20260039681A1)
+US Patent App. 19/224,284 2026  
+[[BibTeX](/content/patents/scalablesinkhole-patent-2025.bib)] 
+[PDF]
 
 Janos Szurdi, Daiping Liu, Zhanhao Chen, Ruian Duan and Mohammad Ghasemisharif  
 Proactively Defending Against DNS Compromise, Misuse, and Errors Using Historical Resource Records  
@@ -111,10 +119,6 @@ Pending. 2024
 Mohamed Yoosuf Mohamed Nabeel, Gaurav Mitesh Dalal, Shaown Sarker, Shehroze Farooqi and Janos Szurdi  
 REAL-TIME AUTOMATED EXTRACTION OF CAMPAIGN CTI FROM THREAT REPORTS  
 Pending. 2024  
-
-Janos Szurdi, Mohammad Ghasemisharif, Daiping Liu, Zhanhao Chen, Rebekah Houser, Fan Fei, Arun Bala Kumar and Yu-Hsiang Kao  
-METHODS TO DETECT DNS HIJACKING  
-Pending. 2025  
 
 Janos Szurdi, Mohammad Ghasemisharif, Zhanhao Chen, Daiping Liu, Wanjin Li and Fan Fei  
 REAL-TIME DETECTION OF DNS HIJACKING  
