@@ -1,7 +1,13 @@
 @media (min-width: 992px) {
+  /* 1. Expand the outer wrapper that holds the whole website */
+  .container {
+    max-width: 1400px !important; /* Change this number to go as wide as you want */
+  }
+
+  /* 2. Tell the reading column to fill that newly expanded space */
   .container[role="main"] > .row > div {
     flex: 0 0 100% !important;
-    max-width: 1000px !important; 
+    max-width: 100% !important; /* Lets the text stretch to the container's limits */
     margin: 0 auto !important; 
   }
 }
