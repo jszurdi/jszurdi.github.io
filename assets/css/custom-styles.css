@@ -13,11 +13,11 @@ details > summary:hover h3 {
   color: #0085A1; /* Changes the heading text to blue */
 }
 
-details.paper-preview {
+/*details.paper-preview {
   margin-bottom: 40px; 
   display: block;
   clear: both;
-}
+}*/
 
 /* 1. Setup the summary so we can control its height */
 details.paper-preview > summary {
