@@ -117,11 +117,11 @@ Proactively Defending Against DNS Compromise, Misuse, and Errors Using Historica
 Pending. 2024  
 
 Mohamed Yoosuf Mohamed Nabeel, Gaurav Mitesh Dalal, Shaown Sarker, Shehroze Farooqi and Janos Szurdi  
-REAL-TIME AUTOMATED EXTRACTION OF CAMPAIGN CTI FROM THREAT REPORTS  
+Real-time Automated Extraction of Campaign CTI from Threat Reports  
 Pending. 2024  
 
 Janos Szurdi, Mohammad Ghasemisharif, Zhanhao Chen, Daiping Liu, Wanjin Li and Fan Fei  
-REAL-TIME DETECTION OF DNS HIJACKING  
+Real-time Detection of DNS Hijacking  
 Pending. 2025  
 
 Mohamed Yoosuf Mohamed Nabeel, Janos Szurdi, William Russell Melicher, Ruian Duan, Oleksii Starov and Daiping Liu  
@@ -136,8 +136,8 @@ Janos Szurdi, Mohammad Ghasemisharif, Fan Fei and Daiping Liu
 A Cost-efficient Method to Detect DNS Hijacking Inline  
 Pending. 2025  
 
-Real-time Detection and Mitigation of Certified Hijacking Attacks  
-Ruian Duan, Janos Szurdi, Mohamed Yoosuf Mohamed Nabeel and Daiping Liu  
+Ruian Duan, Janos Szurdi, Mohamed Yoosuf Mohamed Nabeel and Daiping Liu 
+Real-time Detection and Mitigation of Certified Hijacking Attacks   
 Pending. 2025  
 
 </details>

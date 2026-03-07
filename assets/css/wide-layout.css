@@ -1,13 +1,15 @@
 @media (min-width: 992px) {
   /* 1. Expand the outer wrapper that holds the whole website */
-  .container {
-    max-width: 1400px !important; /* Change this number to go as wide as you want */
+  .container, .container-md, .container-lg, .container-xl {
+    max-width: 1400px !important; /* Change this to 90% for fluid width, or keep at 1400px */
   }
 
-  /* 2. Tell the reading column to fill that newly expanded space */
-  .container[role="main"] > .row > div {
+  /* 2. Target Beautiful Jekyll's specific column classes and remove the empty side margins */
+  .container[role="main"] .row > div[class*="col-"] {
     flex: 0 0 100% !important;
-    max-width: 100% !important; /* Lets the text stretch to the container's limits */
-    margin: 0 auto !important; 
+    max-width: 100% !important; 
+    margin-left: 0 !important; /* This is the key line! It kills the Bootstrap offset */
+    padding-left: 15px !important;
+    padding-right: 15px !important;
   }
 }
