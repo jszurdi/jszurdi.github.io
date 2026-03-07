@@ -68,13 +68,18 @@ In Proceedings of Passive Active Measurements (PAM 2012), Vienna, Austria, March
 </details>
 
 
-<details markdown="1"><summary><h3>Patents</h3></summary>
+<details class="paper-preview" markdown="1">
+<summary markdown="block">
+
+### Patents
 
 Janos Szurdi, Daiping Liu and Jun Wang  
 [Automated extraction and classification of malicious indicators](https://patents.google.com/patent/US20220272109A1/en)  
 US Patent App. 17/185,760.  2021.  
 [[BibTeX](/content/patents/autoioc-patent-2022.bib)] 
 [[PDF](/content/patents/autoioc-patent-2022.pdf)]  
+
+</summary>
 
 Janos Szurdi, Weihan Jiang and David Qianshan He  
 [System and method for detecting dictionary-based dga traffic ](https://patents.google.com/patent/US20230336528A1/en)  
@@ -148,12 +153,17 @@ Pending. 2025
 
 </details>
 
-<details markdown="1"><summary><h3>Research Articles</h3></summary>
+<details class="paper-preview" markdown="1">
+<summary markdown="block"><summary>
+
+### Research Articles
 
 Reethika Ramesh and Janos Szurdi  
 [The Next Level: Typo DGAs Used in Malicious Redirection Chains](https://unit42.paloaltonetworks.com/typo-domain-generation-algorithms/)  
 Palo Alto Networks's Unit42 blog. Published on 03/06/2025. Last accessed on 08/10/2025.  
 [[PDF](/content/industryresearch/typo-domain-generation-algorithms.pdf)]  
+
+</summary>
 
 Moe Ghasemisharif, Janos Szurdi, Zhanhao Chen and Daiping Liu  
 [Automatically Detecting DNS Hijacking in Passive DNS](https://unit42.paloaltonetworks.com/detect-dns-hijacking-passive-dns/)  
@@ -205,14 +215,16 @@ Palo Alto Networks's Unit42 blog. Published on 04/22/2020. Last accessed on 09/3
 
 
 
-<details markdown="1"><summary><h3>Academic Service</h3></summary>
+<details markdown="1">
+<summary markdown="block"><summary><h3>Academic Service</h3></summary>
 
 Served as a reviewer for [WWW 2025](https://www2024.thewebconf.org/organization/reviewers-of-research-tracks/) 
 and [WWW 2024](https://www2025.thewebconf.org/).
 
 </details>
 
-<details markdown="1"><summary><h3>Ph.D. Thesis</h3></summary>
+<details markdown="1">
+<summary markdown="block"><summary><h3>Ph.D. Thesis</h3></summary>
 
 Janos Szurdi  
 [Measuring and Analyzing Typosquatting Toward Fighting Abusive Domain Registrations.](/content/thesis/jszurdi-phd-thesis.pdf)  
@@ -222,13 +234,19 @@ Diss. Carnegie Mellon University, 2020.
 </details>
 
 
-<details markdown="1"><summary><h3>Talks</h3></summary>
+<details class="paper-preview" markdown="1">
+<summary markdown="block"><summary>
+
+### Talks
 
 [Slides](https://janos.szurdi.com/content/presentations/tld-reputation-presentation.pdf) of talk on TLD reputation at MADWeb 2026 in San Diego, CA, U.S. 
 
 [Slides](https://docs.google.com/presentation/d/1aNUMy1QyLew8hjVG6_B68E7c6LkeEg0s3bbcAUX56fs/edit?usp=sharing) of presentation on the potential role of public policy to combat malicious domain registrations to the Law and Policy Subcommittee of the Maryland Cybersecurity Council in 2025.  
 
 [Slides](/content/presentations/ai_meetup_2025_04.pdf) of talk on AI in Web and DNS Security at Budapest AI Hub April 2025 in Budapest, Hungary.  
+
+</summary>
+
 
 [Slides](/content/presentations/proactively_vb24_slides.pdf) and 
 [recording](https://www.youtube.com/watch?v=VoB5p0Hq-yk) of talk on using graphical neural networks to proactively uncover malicious infrastructure at Virus Bulletin 2024 in Dublin, Ireland.  
@@ -244,7 +262,8 @@ Diss. Carnegie Mellon University, 2020.
 
 </details>
 
-<details markdown="1"><summary><h3>Other</h3></summary>
+<details markdown="1">
+<summary markdown="block"><summary><h3>Other</h3></summary>
 
 Acknowledgement for finding a dangling DNS vulnerability in one of Microsoft's online services: [link](https://msrc.microsoft.com/update-guide/acknowledgement/).  
 
