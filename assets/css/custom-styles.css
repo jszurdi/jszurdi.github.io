@@ -27,13 +27,13 @@ details.paper-preview > summary::-webkit-details-marker {
 
 /* 2. When CLOSED: Cut off the first paper halfway */
 details.paper-preview:not([open]) > summary {
-  max-height: 200px; /* <-- ADJUST THIS NUMBER: Increase to show more text, decrease to show less */
+  max-height: 600px; /* <-- ADJUST THIS NUMBER: Increase to show more text, decrease to show less */
   overflow: hidden; /* Hides anything that spills past the 140px limit */
 }
 
 /* 3. The fade effect overlay at the cut-off point */
 details.paper-preview:not([open]) > summary::after {
-  content: "▼ Click to show all papers";
+  /*content: "▼ See More ▼";*/
   position: absolute;
   bottom: 0;
   left: 0;
