@@ -214,7 +214,6 @@ Palo Alto Networks's Unit42 blog. Published on 04/22/2020. Last accessed on 09/3
 </details>
 
 
-
 <details markdown="1">
 <summary markdown="block"><summary><h3>Academic Service</h3></summary>
 
@@ -222,6 +221,7 @@ Served as a reviewer for [WWW 2025](https://www2024.thewebconf.org/organization/
 and [WWW 2024](https://www2025.thewebconf.org/).
 
 </details>
+
 
 <details markdown="1">
 <summary markdown="block"><summary><h3>Ph.D. Thesis</h3></summary>
@@ -262,9 +262,11 @@ Diss. Carnegie Mellon University, 2020.
 
 </details>
 
+
 <details markdown="1">
 <summary markdown="block"><summary><h3>Other</h3></summary>
 
 Acknowledgement for finding a dangling DNS vulnerability in one of Microsoft's online services: [link](https://msrc.microsoft.com/update-guide/acknowledgement/).  
 
 </details>
+
