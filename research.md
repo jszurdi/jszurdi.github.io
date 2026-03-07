@@ -8,7 +8,7 @@ ext-css:
 ---
 
 <details markdown="1">
-<summary markdown="block>
+<summary markdown="block">
 
 ### Peer-reviewed Research
 
