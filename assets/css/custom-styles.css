@@ -1,8 +1,23 @@
-/* 1. Setup the summary for the fade effect */
+/* Remove the default arrow for standard browsers */
+details > summary {
+  list-style: none;
+  cursor: pointer; /* Turns the mouse into a pointing hand */
+}
+
+/* Remove the default arrow for Safari and older Chrome */
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+details > summary:hover h3 {
+  color: #0085A1; /* Changes the heading text to blue */
+}
+/* 1. Setup the summary so we can control its height */
 details.paper-preview > summary {
   position: relative;
   cursor: pointer;
   list-style: none; /* Hides the default black triangle */
+  display: block; /* Required to make the height cut-off work properly */
 }
 
 /* Hides the default black triangle in Safari/Chrome */
@@ -10,35 +25,35 @@ details.paper-preview > summary::-webkit-details-marker {
   display: none;
 }
 
-/* 2. Create the fade effect and "Show all" text ONLY when closed */
+/* 2. When CLOSED: Cut off the first paper halfway */
 details.paper-preview:not([open]) > summary {
-  padding-bottom: 40px; /* Adds space at the bottom for the gradient */
+  max-height: 140px; /* <-- ADJUST THIS NUMBER: Increase to show more text, decrease to show less */
+  overflow: hidden; /* Hides anything that spills past the 140px limit */
 }
 
+/* 3. The fade effect overlay at the cut-off point */
 details.paper-preview:not([open]) > summary::after {
-  content: "▼ Click to show all papers"; /* The hint text */
+  content: "▼ Click to show all papers";
   position: absolute;
   bottom: 0;
   left: 0;
   width: 100%;
-  height: 100px; /* How tall the fade effect is */
+  height: 80px; /* How tall the fade gradient is */
   
-  /* Creates a gradient from transparent to solid white */
-  background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 75%);
+  /* The gradient fading into solid white */
+  background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 80%);
   
-  /* Centers the text at the bottom */
+  /* Text styling and positioning */
   display: flex;
   align-items: flex-end;
   justify-content: center;
   padding-bottom: 5px;
-  
-  /* Styles the text */
-  color: #007bff; /* Bright blue link color */
+  color: #007bff; 
   font-weight: bold;
   font-size: 0.9em;
 }
 
-/* 3. Optional: add a hover effect to the text */
+/* 4. Hover effect for the prompt text */
 details.paper-preview:not([open]) > summary:hover::after {
-  color: #0085A1; /* Darker blue on hover */
+  color: #0056b3; 
 }
