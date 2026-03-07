@@ -34,7 +34,7 @@ details.paper-preview > summary::-webkit-details-marker {
 
 /* 2. When CLOSED: Cut off the first paper halfway */
 details.paper-preview:not([open]) > summary {
-  max-height: 200px; /* <-- ADJUST THIS NUMBER: Increase to show more text, decrease to show less */
+  max-height: 140px; /* <-- ADJUST THIS NUMBER: Increase to show more text, decrease to show less */
   overflow: hidden; /* Hides anything that spills past the 140px limit */
 }
 
