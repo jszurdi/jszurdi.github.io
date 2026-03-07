@@ -3,6 +3,8 @@ layout: page
 title: ''
 subtitle:
 use-site-title: false
+ext-css:
+  - "/assets/css/wide-layout.css"
 ---
 
 <details markdown="1"><summary><h3>Peer-reviewed Research</h3></summary>
@@ -10,7 +12,7 @@ use-site-title: false
 Janos Szurdi, Reethika Ramesh, Ram Sundara Raman, and Daiping Liu  
 [Not What It Used To Be: Generational Analysis of Top-level Domain Reputation](/content/academicpapers/madweb26-tldreputation.pdf)  
 In Proceedings of the Workshop on Measurements, Attacks, and Defenses for the Web (MADWeb'26). San Diego, USA. 2026.   
-[**Best Paper Award**]
+[**Distinguished Paper Award**]
 [[Slides](/content/presentations/tld-reputation-presentation.pdf)] 
 [[Data](https://github.com/PaloAltoNetworks/tld-metrics)]
 
