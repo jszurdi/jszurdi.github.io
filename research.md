@@ -71,9 +71,6 @@ In Proceedings of Passive Active Measurements (PAM 2012), Vienna, Austria, March
 <details class="paper-preview" markdown="1">
 <summary markdown="block">
 
-<details class="paper-preview" markdown="1">
-<summary markdown="block">
-
 ### Patents
 
 Janos Szurdi, Daiping Liu and Jun Wang  
@@ -157,6 +154,11 @@ Real-time Detection and Mitigation of Certified Hijacking Attacks
 Pending. 2025  
 
 </details>
+
+
+<details class="paper-preview" markdown="1">
+<summary markdown="block">
+
 
 ### Research Articles
 
