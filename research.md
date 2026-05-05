@@ -71,13 +71,16 @@ In Proceedings of Passive Active Measurements (PAM 2012), Vienna, Austria, March
 <details class="paper-preview" markdown="1">
 <summary markdown="block">
 
+<details class="paper-preview" markdown="1">
+<summary markdown="block">
+
 ### Patents
 
 Janos Szurdi, Daiping Liu and Jun Wang  
-[Automated extraction and classification of malicious indicators](https://patents.google.com/patent/US20220272109A1/en)  
-US Patent App. 17/185,760.  2021.  
-[[BibTeX](/content/patents/autoioc-patent-2022.bib)] 
-[[PDF](/content/patents/autoioc-patent-2022.pdf)]  
+[Automated extraction and classification of malicious indicators](https://patents.google.com/patent/US11882130B2/en)  
+US Patent 11,882,130. **Granted: 2024-01-23.** Application 17/185,760, filed 2021.  
+[[BibTeX](/content/patents/autoioc-patent-granted.bib)] 
+[[PDF](/content/patents/autoioc-patent-granted.pdf)]  
 
 </summary>
 
@@ -89,14 +92,14 @@ US Patent App. 17/723,292.  2022.
 
 Janos Szurdi, Rebekah Houser and Daiping Liu  
 [Detecting Shadowed Domains](https://patents.google.com/patent/US12309116B2/en)  
-US Patent App. 17/878,665. 2022  
-[[BibTeX](/content/patents/domainshadowing-patent-2024.bib)] 
-[[PDF](/content/patents/domainshadowing-patent-2024.pdf)]  
+US Patent 12,309,116. **Granted: 2025-05-20.** Application 17/878,665, filed 2022.  
+[[BibTeX](/content/patents/domainshadowing-patent-granted.bib)] 
+[[PDF](/content/patents/domainshadowing-patent-granted.pdf)]  
 
 Janos Szurdi, Daiping Liu, Tong Zhao, Tingxiang Zhu, Linan Li  
-[Inline Detection of Dictionary DGA Domain Names with Reduced Cost and Latency](https://patents.google.com/patent/US20240364742A1/en)  
-US Patent App. 18/309,105. 2023  
-[[BibTeX](/content/patents/inlinedictdga-patent-2024.bib)] 
+[Inline Detection of Dictionary DGA Domain Names with Reduced Cost and Latency](https://patents.google.com/patent/US12506783B2/en)  
+US Patent 12,506,783. **Granted: 2025-12-23.** Application 18/309,105, filed 2023.  
+[[BibTeX](/content/patents/inlinedictdga-patent-granted.bib)] 
 [[PDF](/content/patents/inlinedictdga-patent-2024.pdf)]  
 
 Ruian Duan, Zhanhao Chen, Janos Szurdi and Daiping Liu,  
@@ -106,26 +109,28 @@ US Patent App. 18/228,357. 2023
 [[PDF](/content/patents/claimablenx-patent-2024.pdf)]  
 
 Janos Szurdi, Mohamed Yoosuf Mohamed Nabeel, Shehroze Farooqi, George Morrison Jones and Arun Bala Kumar  
-[Methods To Detect Malicious Stockpiled Domain Names](https://patents.google.com/patent/US20250112935A1/en)  
-US Patent App. 18/374,888. 2023  
-[[BibTeX](/content/patents/stockpiled-patent-2024.bib)] 
+[Methods To Detect Malicious Stockpiled Domain Names](https://patents.google.com/patent/US12495050B2/en)  
+US Patent 12,495,050. **Granted: 2025-12-09.** Application 18/374,888, filed 2023.  
+[[BibTeX](/content/patents/stockpiled-patent-granted.bib)] 
 [[PDF](/content/patents/stockpiled-patent-2024.pdf)]  
 
 Ruian Duan, Janos Szurdi and Daiping Liu  
-[Scalable Domain-level Sinkholing and Interaction of Network Traffic](https://patents.google.com/patent/US20250310362A1)
-US Patent App. 18/620,606 2025
+[Scalable Domain-level Sinkholing and Interaction of Network Traffic](https://patents.google.com/patent/US20250310362A1)  
+US Patent App. 18/620,606. 2025  
 [[BibTeX](/content/patents/scalablesinkhole-patent-2025.bib)] 
-[[PDF](#)]
+[[PDF](https://patents.google.com/patent/US20250310362A1)]  
 
 Janos Szurdi, Mohammad Ghasemisharif, Daiping Liu, Zhanhao Chen, Rebekah Houser, Fan Fei, Arun Bala Kumar and Yu-Hsiang Kao  
-[Methods to Detect DNS Hijacking](https://patents.google.com/patent/US20260039681A1)
-US Patent App. 19/224,284 2026  
-[[BibTeX](/content/patents/scalablesinkhole-patent-2025.bib)] 
-[[PDF](#)]
+[Methods to Detect DNS Hijacking](https://patents.google.com/patent/US20260039681A1)  
+US Patent App. 19/224,284. 2026  
+[[BibTeX](/content/patents/dnshijacking-patent-2026.bib)] 
+[[PDF](https://patents.google.com/patent/US20260039681A1)]  
 
 Janos Szurdi, Daiping Liu, Zhanhao Chen, Ruian Duan and Mohammad Ghasemisharif  
-Proactively Defending Against DNS Compromise, Misuse, and Errors Using Historical Resource Records  
-Pending. 2024  
+[Proactively Defending Against DNS Compromise, Misuse, and Errors Using Historical Resource Records](https://patents.google.com/patent/US20260067317A1/en)  
+US Patent App. 18/821,536. 2026  
+[[BibTeX](/content/patents/proactivedns-patent-2026.bib)] 
+[[PDF](https://patents.google.com/patent/US20260067317A1/en)]  
 
 Mohamed Yoosuf Mohamed Nabeel, Gaurav Mitesh Dalal, Shaown Sarker, Shehroze Farooqi and Janos Szurdi  
 Real-time Automated Extraction of Campaign CTI from Threat Reports  
@@ -147,14 +152,11 @@ Janos Szurdi, Mohammad Ghasemisharif, Fan Fei and Daiping Liu
 A Cost-efficient Method to Detect DNS Hijacking Inline  
 Pending. 2025  
 
-Ruian Duan, Janos Szurdi, Mohamed Yoosuf Mohamed Nabeel and Daiping Liu 
+Ruian Duan, Janos Szurdi, Mohamed Yoosuf Mohamed Nabeel and Daiping Liu  
 Real-time Detection and Mitigation of Certified Hijacking Attacks   
 Pending. 2025  
 
 </details>
-
-<details class="paper-preview" markdown="1">
-<summary markdown="block">
 
 ### Research Articles
 
