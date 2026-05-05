@@ -97,7 +97,7 @@ Janos Szurdi, Daiping Liu, Tong Zhao, Tingxiang Zhu, Linan Li
 [Inline Detection of Dictionary DGA Domain Names with Reduced Cost and Latency](https://patents.google.com/patent/US12506783B2/en)  
 US Patent 12,506,783. **Granted: 2025-12-23.** Application 18/309,105, filed 2023.  
 [[BibTeX](/content/patents/inlinedictdga-patent-granted.bib)] 
-[[PDF](/content/patents/inlinedictdga-patent-2024.pdf)]  
+[[PDF](/content/patents/inlinedictdga-patent-granted.pdf)]  
 
 Ruian Duan, Zhanhao Chen, Janos Szurdi and Daiping Liu,  
 [Detecting And Protecting Claimable Non-Existent Domains](https://patents.google.com/patent/WO2025029455A1/en)  
@@ -109,7 +109,7 @@ Janos Szurdi, Mohamed Yoosuf Mohamed Nabeel, Shehroze Farooqi, George Morrison J
 [Methods To Detect Malicious Stockpiled Domain Names](https://patents.google.com/patent/US12495050B2/en)  
 US Patent 12,495,050. **Granted: 2025-12-09.** Application 18/374,888, filed 2023.  
 [[BibTeX](/content/patents/stockpiled-patent-granted.bib)] 
-[[PDF](/content/patents/stockpiled-patent-2024.pdf)]  
+[[PDF](/content/patents/stockpiled-patent-granted.pdf)]  
 
 Ruian Duan, Janos Szurdi and Daiping Liu  
 [Scalable Domain-level Sinkholing and Interaction of Network Traffic](https://patents.google.com/patent/US20250310362A1)  
