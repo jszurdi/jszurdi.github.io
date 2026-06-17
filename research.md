@@ -12,14 +12,20 @@ ext-css:
 
 ### Peer-reviewed Research
 
+Janos Szurdi, Mohammad Ghasemisharif, Reethika Ramesh, Zhanhao Chen, Ruian Duan, William Melicher, and Daiping Liu  
+[Practical Real-time Detection of IPv4 Record Classical Domain Hijacking at Scale](/content/academicpapers/szurdi-2026-domainhijacking.pdf)  
+In Proceedings of the ACM Asia Conference on Computer and Communications Security (AsiaCCS'26). Bangalore, India. 2026.  
+[[Slides](/content/presentations/asiaccs26_domain_hijacking.pdf)]  
+[[Data](https://github.com/jszurdi/domain-hijacking)]
+
+</summary>
+
 Janos Szurdi, Reethika Ramesh, Ram Sundara Raman, and Daiping Liu  
 [Not What It Used To Be: Generational Analysis of Top-level Domain Reputation](/content/academicpapers/madweb26-tldreputation.pdf)  
 In Proceedings of the Workshop on Measurements, Attacks, and Defenses for the Web (MADWeb'26). San Diego, USA. 2026.   
 [**Distinguished Paper Award**]
 [[Slides](/content/presentations/tld-reputation-presentation.pdf)] 
 [[Data](https://github.com/PaloAltoNetworks/tld-metrics)]
-
-</summary>
 
 
 Janos Szurdi, Meng Luo, Brian Kondracki, Nick Nikiforakis and Nicolas Christin  
